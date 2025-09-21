@@ -15,5 +15,4 @@ jobs:
 
       - name: Log the file
         run : |
-          ls
-          cat context.txt
+          cat content.txt
